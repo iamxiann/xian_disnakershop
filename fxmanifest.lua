@@ -2,8 +2,8 @@ fx_version "cerulean"
 game 'gta5'
 
 author 'xian'
-description 'Disnaker Store - QBX | OX_Inventory | OX_Target'
-version '2.0.0'
+description 'Disnaker Store'
+version '1.0.0'
 
 shared_scripts {
     '@ox_lib/init.lua',
