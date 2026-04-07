@@ -1,4 +1,4 @@
-# 🏪 Disnaker Store (QBX + OX)
+# 🏪 Disnaker Store (QBX)
 
 A modern and secure **NPC-based shop system** for FiveM built with the **QBX Core framework**
 
